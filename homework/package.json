@@ -1,0 +1,11 @@
+{
+  "name": "David",
+  "version": "1.0.1",
+  "main": "main.js",
+    "description": "Це мій проект",
+  "scripts": {  
+    "start": "node main.js"
+  }
+  
+
+}
